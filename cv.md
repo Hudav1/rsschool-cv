@@ -9,7 +9,7 @@
 ## About Me
 I graduated from college with a degree in programming, barely finished my studies, it was hard, and it seemed that the knowledge that I was taught was not enought. It would be possible to gain more knowledge through self-education and various courses on the Internet, since then I have been sitting and studying programming and strive to become a full-fledged programmer.
 
-## SKills
+## Skills
 - html;
 - CSS;
 - Git/GitHub;
